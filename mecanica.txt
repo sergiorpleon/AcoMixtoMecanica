@@ -1,0 +1,7 @@
+var: 5
+presicion: 5
+x1 "do" continua 0.015 0.051
+x2 "nt" discreta 10 1000
+x3 "Ds" continua 0.1 1.5
+x4 "B" continua 0.05 0.5
+x5 "patron" discreta {30, 45}
